@@ -13,7 +13,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-## Zixiang Xu | CNU Math 
+## Zixiang Xu
+###  CNU Math 
 	
 
 
