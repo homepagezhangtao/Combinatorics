@@ -149,6 +149,9 @@
  <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1811.04600" target="_blank">arxiv:1811.04600</a></span>  
 </div>
+<div class="item__primary-actions">
+ To appear:  <span><a href="https://link.springer.com/article/10.1007/s10623-019-00641-w" target="_blank">Designs, Codes and Cryptography</a></span>  
+</div>
   </p>
   <p class="item__secondary-actions">
     
