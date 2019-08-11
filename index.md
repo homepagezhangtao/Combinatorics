@@ -61,7 +61,7 @@
   <p>
     <p> In this work, we determine the Turan number of 3-uniform Berge theta hypergraph when l=3 and t is relatively small.</p>
   <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1908.01459" target="_blank">arxiv</a></span>  
+    <span><a href="https://arxiv.org/pdf/1908.01459" target="_blank">arxiv:1908.01459</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -71,9 +71,7 @@
 
 <div class="items">      
         <article class="item">  
-  <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1907.11909" target="_blank">arxiv</a></span>  
-</div>
+ 
   <h3>
   Some tight lower bounds for Turán problems via constructions of multi-hypergraphs
     <span>
@@ -84,7 +82,9 @@
   </h3>
   <p>
     <p> In this work, we use the random algebraic method to construct several multi-hypergraphs. </p>
-
+ <div class="item__primary-actions">
+    <span><a href="https://arxiv.org/pdf/1907.11909" target="_blank">arxiv:1907.11909</a></span>  
+</div>
   </p>
   <p class="item__secondary-actions">
     
@@ -93,9 +93,6 @@
 
 <div class="items">      
         <article class="item">  
-  <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1905.01685" target="_blank">arxiv</a></span>  
-</div>
   <h3>
   Some extremal results on hypergraph Turán problems
     <span>
@@ -106,7 +103,9 @@
   </h3>
   <p>
     <p> In this work, we determine the Turan number of complete bipartite r-uniform hypergraphs. </p>
-
+ <div class="item__primary-actions">
+    <span><a href="https://arxiv.org/pdf/1905.01685" target="_blank">arxiv:1905.01685</a></span>  
+</div>
   </p>
   <p class="item__secondary-actions">
     
@@ -115,9 +114,7 @@
 
 <div class="items">    
         <article class="item">  
-  <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1812.11700" target="_blank">arxiv</a></span>  
-</div>
+  
   <h3>
   On vertex-induced weighted Turán problems
     <span>
@@ -128,7 +125,9 @@
   </h3>
   <p>
     <p> In this work, we we consider the Turán problem under sum-edge-weight function and characterize the extremal structure of cilque-free graphs. Based on these results, we propose a generalized version of the Erdős-Stone theorem for weighted graphs under two types of vertex-induced weight functions.</p>
-
+<div class="item__primary-actions">
+    <span><a href="https://arxiv.org/pdf/1812.11700" target="_blank">arxiv:1812.11700</a></span>  
+</div>
   </p>
   <p class="item__secondary-actions">
     
@@ -137,9 +136,6 @@
 
 <div class="items">     
         <article class="item">  
-  <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1811.04600" target="_blank">arxiv</a></span>  
-</div>
   <h3>
  New Theoretical Bounds and Constructions of Permutation Codes under Block Permutation Metric
     <span>
@@ -150,7 +146,9 @@
   </h3>
   <p>
     <p> Permutation codes under different metrics have been extensively studied due to their potentials in various applications. In this paper, we focus on the theoretical bounds of C(n,d) and the constructions of permutation codes under block permutation metric.</p>
-
+ <div class="item__primary-actions">
+    <span><a href="https://arxiv.org/pdf/1811.04600" target="_blank">arxiv:1811.04600</a></span>  
+</div>
   </p>
   <p class="item__secondary-actions">
     
