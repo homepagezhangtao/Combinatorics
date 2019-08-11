@@ -25,7 +25,7 @@
 		<main id="main" role="main" class="main">
   <div class="about">
     <figure class="profile">
-      <img src="XzxMarriage.png">
+      <img src="XzxMarriage.jpg">
     </figure>
     <p class="description">
       School of Mathematics Science<br>
