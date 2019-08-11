@@ -24,7 +24,7 @@
 <h3>Short CV</h3>
     <p>
      Capital Normal University, September 2016 – <br>
-      Ph.D., Department of Mathematical Sciences (Advisor: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>)
+      Ph.D., School of Mathematical Sciences (Advisor: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>)
     </p>
     <p>
       Zhejiang University, September 2012 – June 2016<br>
