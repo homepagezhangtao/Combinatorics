@@ -134,7 +134,7 @@
 
 <h3>Talk</h3>
 
- <p><a href="https://www.hubu.edu.cn/info/1316/30867.htm" target="_blank">6-th International Conference of Coding, Cryptography and Combinatorics.</a></span></p>
+ <p><a href="https://www.hubu.edu.cn/info/1316/30867.htm" target="_blank">6-th International Conference of Coding, Cryptography and Combinatorics.</a></p>
  <p><a href="http://dimacs.fzu.edu.cn/ReadNews.asp?NewsID=1429" target="_blank">2019 Conference on Combinatorial Mathematics and Graph Theory</a></p>
 <h3>Contact</h3>
     <p>
