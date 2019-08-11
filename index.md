@@ -24,11 +24,10 @@
 		
 		
   <div class="about">
-    
-    <p class="description">
-    <figure class="profile">
+      <figure class="profile">
       <img src="XzxMarriage.jpg">
     </figure>
+    <p class="description">
       School of Mathematics Science<br>
       Capital Normal University
     </p>
