@@ -48,8 +48,7 @@
     </p>
 	
    <h3>Writing</h3>	
-    <div class="items">
-    <h2>Preprints</h2>      
+    <div class="items">      
         <article class="item">  
   <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1908.01459" target="_blank">arxiv</a></span>  
@@ -71,8 +70,7 @@
   </p>
 </article>
 
-<div class="items">
-    <h2>Preprints</h2>      
+<div class="items">      
         <article class="item">  
   <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1907.11909" target="_blank">arxiv</a></span>  
@@ -94,8 +92,7 @@
   </p>
 </article>
 
-<div class="items">
-    <h2>Preprints</h2>      
+<div class="items">      
         <article class="item">  
   <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1905.01685" target="_blank">arxiv</a></span>  
@@ -117,8 +114,7 @@
   </p>
 </article>
 
-<div class="items">
-    <h2>Preprints</h2>      
+<div class="items">    
         <article class="item">  
   <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1812.11700" target="_blank">arxiv</a></span>  
@@ -140,8 +136,7 @@
   </p>
 </article>
 
-<div class="items">
-    <h2>Preprints</h2>      
+<div class="items">     
         <article class="item">  
   <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1811.04600" target="_blank">arxiv</a></span>  
