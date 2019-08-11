@@ -32,12 +32,12 @@
       School of Mathematics Science<br>
       Capital Normal University
     </p>
-    <h3>Research interests</h3>
+    Research interests
     <p>
       Extremal graph theory, Coding Theory<br>
       A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
-    <h3>Short CV</h3>
+    Short CV
     <p>
      Capital Normal University, September 2016 – <br>
       Ph.D., Department of Mathematical Sciences (Advisor: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>)
@@ -47,7 +47,7 @@
       B.Sc., School of Mathematical Sciences
     </p>
 	
-   <h3>Writing</h3>	
+   Writing
     <div class="items">      
         <article class="item">  
   <h3>
