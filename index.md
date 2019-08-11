@@ -50,9 +50,6 @@
    <h3>Writing</h3>	
     <div class="items">      
         <article class="item">  
-  <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1908.01459" target="_blank">arxiv</a></span>  
-</div>
   <h3>
   3-uniform hypergraphs with few Berge paths of length three between any two vertices
     <span>
@@ -63,7 +60,9 @@
   </h3>
   <p>
     <p> In this work, we determine the Turan number of 3-uniform Berge theta hypergraph when l=3 and t is relatively small.</p>
-
+  <div class="item__primary-actions">
+    <span><a href="https://arxiv.org/pdf/1908.01459" target="_blank">arxiv</a></span>  
+</div>
   </p>
   <p class="item__secondary-actions">
     
@@ -150,7 +149,7 @@
     </span>
   </h3>
   <p>
-    <p> In this work, we we consider the Turán problem under sum-edge-weight function and characterize the extremal structure of cilque-free graphs. Based on these results, we propose a generalized version of the Erdős-Stone theorem for weighted graphs under two types of vertex-induced weight functions.</p>
+    <p> Permutation codes under different metrics have been extensively studied due to their potentials in various applications. In this paper, we focus on the theoretical bounds of C(n,d) and the constructions of permutation codes under block permutation metric.</p>
 
   </p>
   <p class="item__secondary-actions">
