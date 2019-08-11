@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
+
   
 
 
@@ -49,15 +47,13 @@
 	
    Writing
     <div class="items">      
-        <article class="item">  
-  <h3>
+        <article class="item">   
   3-uniform hypergraphs with few Berge paths of length three between any two vertices
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
-  </h3>
   <p>
     <p> In this work, we determine the Turan number of 3-uniform Berge theta hypergraph when l=3 and t is relatively small.</p>
   <div class="item__primary-actions">
@@ -70,16 +66,13 @@
 </article>
 
 <div class="items">      
-        <article class="item">  
- 
-  <h3>
+        <article class="item">   
   Some tight lower bounds for Turán problems via constructions of multi-hypergraphs
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
-  </h3>
   <p>
     <p> In this work, we use the random algebraic method to construct several multi-hypergraphs. </p>
  <div class="item__primary-actions">
@@ -93,14 +86,12 @@
 
 <div class="items">      
         <article class="item">  
-  <h3>
   Some extremal results on hypergraph Turán problems
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
-  </h3>
   <p>
     <p> In this work, we determine the Turan number of complete bipartite r-uniform hypergraphs. </p>
  <div class="item__primary-actions">
@@ -115,14 +106,13 @@
 <div class="items">    
         <article class="item">  
   
-  <h3>
+
   On vertex-induced weighted Turán problems
     <span>
       (with       
         <a href="yifanjing.wordpress.com" target="_blank">Yifan Jing</a>,  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
-  </h3>
   <p>
     <p> In this work, we we consider the Turán problem under sum-edge-weight function and characterize the extremal structure of cilque-free graphs. Based on these results, we propose a generalized version of the Erdős-Stone theorem for weighted graphs under two types of vertex-induced weight functions.</p>
 <div class="item__primary-actions">
@@ -136,14 +126,12 @@
 
 <div class="items">     
         <article class="item">  
-  <h3>
  New Theoretical Bounds and Constructions of Permutation Codes under Block Permutation Metric
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Yiwei_Zhang15" target="_blank">Yiwei Zhang</a>,  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
-  </h3>
   <p>
     <p> Permutation codes under different metrics have been extensively studied due to their potentials in various applications. In this paper, we focus on the theoretical bounds of C(n,d) and the constructions of permutation codes under block permutation metric.</p>
  <div class="item__primary-actions">
