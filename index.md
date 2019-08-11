@@ -6,15 +6,7 @@
 
 
 ## Zixiang Xu
-###  CNU Math 
 	
-
-
-
-
- 
-
-		
 		
   <div class="about">
       <figure class="profile">
@@ -142,8 +134,8 @@
 
 <h3>Talk</h3>
 
- <span><a href="https://www.hubu.edu.cn/info/1316/30867.htm" target="_blank">6-th International Conference of Coding, Cryptography and Combinatorics.</a></span>
- <span><a href=" http://dimacs.fzu.edu.cn/ReadNews.asp?NewsID=1429" target="_blank">2019 Conference on Combinatorial Mathematics and Graph Theory</a></span>
+ <p><a href="https://www.hubu.edu.cn/info/1316/30867.htm" target="_blank">6-th International Conference of Coding, Cryptography and Combinatorics.</a></span></p>
+ <p><a href=" http://dimacs.fzu.edu.cn/ReadNews.asp?NewsID=1429" target="_blank">2019 Conference on Combinatorial Mathematics and Graph Theory</a></p>
 <h3>Contact</h3>
     <p>
       <strong>Email:</strong> 50511211@qq.com<br>
