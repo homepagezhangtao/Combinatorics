@@ -26,7 +26,7 @@
 		
   <div class="about">
       <figure class="profile">
-      <img src="XzxMarriage.jpg">
+      <img src="XzxMarriage.png">
     </figure>
     <p class="description">
       School of Mathematics Science<br>
