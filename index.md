@@ -32,7 +32,26 @@
     </p>
 	
 <h3>Writing</h3>
-    <div class="items">      
+ <div class="items">      
+        <article class="item">   
+  Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields
+    <span>
+      (with         
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+    <p> In this work,  In this paper, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set.</p>
+  <div class="item__primary-actions">
+    <span><a href="Erdos_Falconer_distance_problem_under_Hamming_metric.pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+    
+  </p>
+</article>
+
+
+   <div class="items">      
         <article class="item">   
   3-uniform hypergraphs with few Berge paths of length three between any two vertices
     <span>
