@@ -34,7 +34,7 @@
 <h3>Writing</h3>
  <div class="items">      
         <article class="item">   
-  Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields
+ <h4>Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields</h4>
     <span>
       (with         
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -53,7 +53,7 @@
 
    <div class="items">      
         <article class="item">   
-  3-uniform hypergraphs with few Berge paths of length three between any two vertices
+  <h4>3-uniform hypergraphs with few Berge paths of length three between any two vertices</h4>
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
@@ -72,7 +72,7 @@
 
 <div class="items">      
         <article class="item">   
-  Some tight lower bounds for Turán problems via constructions of multi-hypergraphs
+  <h4>Some tight lower bounds for Turán problems via constructions of multi-hypergraphs</h4>
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
@@ -91,7 +91,7 @@
 
 <div class="items">      
         <article class="item">  
-  Some extremal results on hypergraph Turán problems
+  <h4>Some extremal results on hypergraph Turán problems</h4>
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
@@ -112,7 +112,7 @@
         <article class="item">  
   
 
-  On vertex-induced weighted Turán problems
+ <h4>On vertex-induced weighted Turán problems</h4>
     <span>
       (with       
         <a href="yifanjing.wordpress.com" target="_blank">Yifan Jing</a>,  
@@ -131,7 +131,7 @@
 
 <div class="items">     
         <article class="item">  
- New Theoretical Bounds and Constructions of Permutation Codes under Block Permutation Metric
+<h4> New Theoretical Bounds and Constructions of Permutation Codes under Block Permutation Metric</h4>
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Yiwei_Zhang15" target="_blank">Yiwei Zhang</a>,  
